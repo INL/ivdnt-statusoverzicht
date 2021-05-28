@@ -30,7 +30,7 @@ sites:
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
   - name: namescape.nl
-    url: http://namescape.nl
+    url: https://blog.namescape.nl
   - name: opensonar.ivdnt.org
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: pybossa.taalradar.ivdnt.org
