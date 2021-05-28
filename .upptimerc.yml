@@ -1,6 +1,5 @@
 owner: INL
 repo: ivdnt-statusoverzicht
-
 sites:
   - name: ivdnt.org
     url: https://ivdnt.org
