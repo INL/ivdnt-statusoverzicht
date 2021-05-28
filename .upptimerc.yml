@@ -11,6 +11,8 @@ sites:
     url: https://brievenalsbuit.ivdnt.org
   - name: brievenalsbuit2.ivdnt.org
     url: https://brievenalsbuit2.ivdnt.org
+  - name: chn.ivdnt.org
+    url: https://chn.ivdnt.org
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
   - name: corpusgysseling.ivdnt.org
@@ -48,10 +50,8 @@ sites:
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: inl.github.io
-  baseUrl: /ivdnt-statusoverzicht
+  baseUrl: /ivdnt-statusoverzicht/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ivdnt status
   introTitle: titel
@@ -61,6 +61,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
