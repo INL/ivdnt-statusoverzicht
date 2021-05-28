@@ -51,8 +51,8 @@ sites:
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
 status-website:
-  #cname: inl.github.io
-  baseUrl: /ivdnt-statusoverzicht
+  cname: status.ivdnt.org
+  #baseUrl: /ivdnt-statusoverzicht
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/int-logo-2regels.png
   name: Status
   introTitle:
@@ -63,6 +63,5 @@ status-website:
     - title: github
       href: https://github.com/$OWNER/$REPO
     - title: ivdnt.org
-      href: https://ivdnt.org 
-  i18n:
-   footer: (c) ivdnt.org
+      href: https://ivdnt.org
+  footer: (c) ivdnt.org
