@@ -54,13 +54,15 @@ status-website:
   #cname: inl.github.io
   baseUrl: /ivdnt-statusoverzicht
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/upptime-icon.svg
-  name: ivdnt status
-  introTitle: ivdnt status
-  introMessage: 
+  name: Status
+  introTitle:
+  introMessage:
   navbar:
-    - title: Status
+    - title: live status
       href: /
-    - title: GitHub
+    - title: github
       href: https://github.com/$OWNER/$REPO
+    - title: ivdnt.org
+      href: https://ivdnt.org  
   i18n:
    footer: (c) ivdnt.org
