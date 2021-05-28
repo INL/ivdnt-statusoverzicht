@@ -1,6 +1,5 @@
-# Change these first
-owner: INL # Your GitHub organization or username, where this repository lives
-repo: ivdnt-statusoverzicht # The name of this repository
+owner: INL
+repo: ivdnt-statusoverzicht
 
 sites:
   - name: ivdnt.org
@@ -33,6 +32,8 @@ sites:
     url: https://gtb.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
+  - name: namescape.nl
+    url: http://namescape.nl
   - name: opensonar.ivdnt.org
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: pybossa.taalradar.ivdnt.org
@@ -50,12 +51,12 @@ sites:
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
 status-website:
-  cname: inl.github.io
-  baseUrl: /ivdnt-statusoverzicht/
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: inl.github.io/ivdnt-statusoverzicht
+  #baseUrl: /ivdnt-statusoverzicht
+  logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/upptime-icon.svg
   name: ivdnt status
-  introTitle: titel
-  introMessage: meer informatie
+  introTitle: ivdnt status
+  introMessage: 
   navbar:
     - title: Status
       href: /
