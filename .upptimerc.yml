@@ -31,10 +31,14 @@ sites:
     url: https://gtb.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
+  - name: opensonar.ivdnt.org
+    url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: pybossa.taalradar.ivdnt.org
     url: https://pybossa.taalradar.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
+  - name: taalradar.ivdnt.org
+    url: https://taalradar.ivdnt.org
   - name: taalportaal.org
     url: https://taalportaal.org
   - name: taalmaterialen.ivdnt.org
