@@ -13,8 +13,6 @@ sites:
     url: https://chn.ivdnt.org
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
-  - name: corpusgysseling.ivdnt.org
-    url: https://corpusgysseling.ivdnt.org
   - name: corpusmiddelnederlands.ivdnt.org
     url: https://corpusmiddelnederlands.ivdnt.org
   - name: dsdd.ivdnt.org
