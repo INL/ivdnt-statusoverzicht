@@ -10,9 +10,11 @@ sites:
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
   - name: dsdd.ivdnt.org
-    url: https://dsdd.ivdnt.org
+    url: https://dsdd.ivdnt.org/DSDD
   - name: taalportaal.org
     url: https://taalportaal.org
+  - name: taalmaterialen.ivdnt.org
+    url: https://taalmaterialen.ivdnt.org    
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
 status-website:
