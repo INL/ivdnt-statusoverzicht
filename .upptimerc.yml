@@ -7,16 +7,42 @@ sites:
     url: https://ivdnt.org
   - name: anw.ivdnt.org
     url: https://anw.ivdnt.org
-  - name: gtb.ivdnt.org
-    url: https://gtb.ivdnt.org
+  - name: brievenalsbuit.ivdnt.org
+    url: https://brievenalsbuit.ivdnt.org
+  - name: brievenalsbuit2.ivdnt.org
+    url: https://brievenalsbuit2.ivdnt.org
+  - name: corpusgysseling.ivdnt.org
+    url: https://corpusgysseling.ivdnt.org
+  - name: corpusgysseling.ivdnt.org
+    url: https://corpusgysseling.ivdnt.org
+  - name: corpusmiddelnederlands.ivdnt.org
+    url: https://corpusmiddelnederlands.ivdnt.org
   - name: dsdd.ivdnt.org
     url: https://dsdd.ivdnt.org/DSDD
+  - name: e-ans.ivdnt.org
+    url: https://e-ans.ivdnt.org
+  - name: evenementen.ivdnt.org
+    url: https://evenementen.ivdnt.org
+  - name: etymologiebank.ivdnt.org
+    url: https://etymologiebank.ivdnt.org
+  - name: ewnd.ivdnt.org
+    url: https://ewnd.ivdnt.org
+  - name: gtb.ivdnt.org
+    url: https://gtb.ivdnt.org
+  - name: lexiconfrisicum.ivdnt.org
+    url: https://lexiconfrisicum.ivdnt.org
+  - name: pybossa.taalradar.ivdnt.org
+    url: https://pybossa.taalradar.ivdnt.org
+  - name: portal.clarin.ivdnt.org
+    url: https://portal.clarin.ivdnt.org
   - name: taalportaal.org
     url: https://taalportaal.org
   - name: taalmaterialen.ivdnt.org
-    url: https://taalmaterialen.ivdnt.org    
-  - name: portal.clarin.ivdnt.org
-    url: https://portal.clarin.ivdnt.org
+    url: https://taalmaterialen.ivdnt.org
+  - name: uitleenwoordenbank.ivdnt.org
+    url: https://uitleenwoordenbank.ivdnt.org
+  - name: vertaalwoordenschat.ivdnt.org
+    url: https://vertaalwoordenschat.ivdnt.org
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
