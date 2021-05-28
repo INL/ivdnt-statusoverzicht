@@ -5,10 +5,16 @@ repo: ivdnt-statusoverzicht # The name of this repository
 sites:
   - name: ivdnt.org
     url: https://ivdnt.org
-  - name: anw
+  - name: anw.ivdnt.org
     url: https://anw.ivdnt.org
-  - name: gtb
+  - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
+  - name: dsdd.ivdnt.org
+    url: https://dsdd.ivdnt.org
+  - name: taalportaal.org
+    url: https://taalportaal.org
+   - name: portal clarin
+    url: https://portal.clarin.ivdnt.org   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
