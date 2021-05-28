@@ -51,8 +51,8 @@ sites:
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
 status-website:
-  cname: inl.github.io/ivdnt-statusoverzicht
-  #baseUrl: /ivdnt-statusoverzicht
+  #cname: inl.github.io
+  baseUrl: /ivdnt-statusoverzicht
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/upptime-icon.svg
   name: ivdnt status
   introTitle: ivdnt status
@@ -62,3 +62,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  i18n:
+   footer: (c) ivdnt.org
