@@ -1,5 +1,5 @@
 activeIncidents: Active Incidents
-allSystemsOperational: All systems are operational
+allSystemsOperational: All systems are online
 incidentReport: "Incident #$NUMBER report →"
 activeIncidentSummary: Opened at $DATE with $POSTS posts
 incidentTitle: Incident $NUMBER Details
@@ -27,7 +27,7 @@ degraded: Degraded
 ms: ms
 loading: Loading
 navGitHub: GitHub
-footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+footer: (c) ivdnt.org
 rateLimitExceededTitle: Rate limit exceedeed
 rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
 rateLimitExceededWhatDoesErrorMean: What does this error mean?
