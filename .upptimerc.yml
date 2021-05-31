@@ -47,6 +47,8 @@ sites:
     url: https://uitleenwoordenbank.ivdnt.org
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
+  - name: woordcombinaties.ivdnt.org
+    url: https://woordcombinaties.ivdnt.org
 status-website:
   cname: status.ivdnt.org
   #baseUrl: /ivdnt-statusoverzicht
