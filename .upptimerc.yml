@@ -31,6 +31,10 @@ sites:
     url: https://lexiconfrisicum.ivdnt.org
   - name: namescape.nl website
     url: https://blog.namescape.nl
+  - name: namescape search
+    url: https://search.namescape.nl
+  - name: namescape tagger
+    url: https://ner.namescape.nl/namescape/ui
   - name: namescape visualizer
     url: https://visualizer.namescape.nl
   - name: opensonar.ivdnt.org
@@ -39,12 +43,12 @@ sites:
     url: https://pybossa.taalradar.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
+  - name: taalmaterialen.ivdnt.org
+    url: https://taalmaterialen.ivdnt.org
   - name: taalradar.ivdnt.org
     url: https://taalradar.ivdnt.org
   - name: taalportaal.org
     url: https://taalportaal.org
-  - name: taalmaterialen.ivdnt.org
-    url: https://taalmaterialen.ivdnt.org
   - name: uitleenwoordenbank.ivdnt.org
     url: https://uitleenwoordenbank.ivdnt.org
   - name: vertaalwoordenschat.ivdnt.org
