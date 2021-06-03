@@ -296,19 +296,19 @@
     "url": "https://ner.namescape.nl/namescape/ui",
     "icon": "https://favicons.githubusercontent.com/ner.namescape.nl",
     "slug": "namescape-tagger",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1037,
-    "timeDay": 610,
-    "timeWeek": 1037,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 968,
+    "timeDay": 592,
+    "timeWeek": 968,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2021-06-03": 0
+      "2021-06-03": 28
     }
   },
   {
