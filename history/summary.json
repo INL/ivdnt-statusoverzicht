@@ -40,100 +40,110 @@
     "url": "https://brievenalsbuit.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/brievenalsbuit.ivdnt.org",
     "slug": "brievenalsbuit-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1574,
     "timeDay": 1200,
     "timeWeek": 1042,
     "timeMonth": 1574,
     "timeYear": 1574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "brievenalsbuit2.ivdnt.org",
     "url": "https://brievenalsbuit2.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/brievenalsbuit2.ivdnt.org",
     "slug": "brievenalsbuit2-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1947,
     "timeDay": 1232,
     "timeWeek": 1069,
     "timeMonth": 1947,
     "timeYear": 1947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "chn.ivdnt.org",
     "url": "https://chn.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/chn.ivdnt.org",
     "slug": "chn-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1782,
     "timeDay": 938,
     "timeWeek": 873,
     "timeMonth": 1782,
     "timeYear": 1782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "corpusgysseling.ivdnt.org",
     "url": "https://corpusgysseling.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/corpusgysseling.ivdnt.org",
     "slug": "corpusgysseling-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1135,
     "timeDay": 1127,
     "timeWeek": 967,
     "timeMonth": 1135,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "corpusmiddelnederlands.ivdnt.org",
     "url": "https://corpusmiddelnederlands.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/corpusmiddelnederlands.ivdnt.org",
     "slug": "corpusmiddelnederlands-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1375,
     "timeDay": 1095,
     "timeWeek": 961,
     "timeMonth": 1375,
     "timeYear": 1375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "dsdd.ivdnt.org",
     "url": "https://dsdd.ivdnt.org/DSDD",
     "icon": "https://favicons.githubusercontent.com/dsdd.ivdnt.org",
     "slug": "dsdd-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1113,
@@ -142,6 +152,7 @@
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
+      "2021-06-09": 1,
       "2021-05-28": 5
     }
   },
@@ -150,18 +161,20 @@
     "url": "https://e-ans.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/e-ans.ivdnt.org",
     "slug": "e-ans-ivdnt-org",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1414,
     "timeDay": 1189,
     "timeWeek": 1031,
     "timeMonth": 1414,
     "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "evenementen.ivdnt.org",
@@ -186,10 +199,10 @@
     "url": "https://etymologiebank.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/etymologiebank.ivdnt.org",
     "slug": "etymologiebank-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 833,
@@ -197,17 +210,19 @@
     "timeWeek": 535,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "ewnd.ivdnt.org",
     "url": "https://ewnd.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/ewnd.ivdnt.org",
     "slug": "ewnd-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 842,
@@ -215,17 +230,19 @@
     "timeWeek": 552,
     "timeMonth": 842,
     "timeYear": 842,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "gtb.ivdnt.org",
     "url": "https://gtb.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/gtb.ivdnt.org",
     "slug": "gtb-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 1126,
@@ -234,6 +251,7 @@
     "timeMonth": 1126,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2021-06-09": 1,
       "2021-05-31": 26
     }
   },
@@ -242,10 +260,10 @@
     "url": "https://lexiconfrisicum.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/lexiconfrisicum.ivdnt.org",
     "slug": "lexiconfrisicum-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
@@ -253,17 +271,19 @@
     "timeWeek": 510,
     "timeMonth": 625,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "namescape.nl website",
     "url": "https://blog.namescape.nl",
     "icon": "https://favicons.githubusercontent.com/blog.namescape.nl",
     "slug": "namescape-nl-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
@@ -271,17 +291,19 @@
     "timeWeek": 885,
     "timeMonth": 1108,
     "timeYear": 1108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "namescape search",
     "url": "https://search.namescape.nl",
     "icon": "https://favicons.githubusercontent.com/search.namescape.nl",
     "slug": "namescape-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
@@ -289,25 +311,28 @@
     "timeWeek": 836,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "namescape tagger",
     "url": "https://ner.namescape.nl/namescape/ui",
     "icon": "https://favicons.githubusercontent.com/ner.namescape.nl",
     "slug": "namescape-tagger",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 770,
     "timeDay": 619,
     "timeWeek": 557,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {
+      "2021-06-09": 1,
       "2021-06-03": 28
     }
   },
@@ -316,10 +341,10 @@
     "url": "https://visualizer.namescape.nl",
     "icon": "https://favicons.githubusercontent.com/visualizer.namescape.nl",
     "slug": "namescape-visualizer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1330,
@@ -327,17 +352,19 @@
     "timeWeek": 751,
     "timeMonth": 1330,
     "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "opensonar.ivdnt.org",
     "url": "https://portal.clarin.inl.nl/opensonar_frontend/opensonar",
     "icon": "https://favicons.githubusercontent.com/portal.clarin.inl.nl",
     "slug": "opensonar-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1048,
@@ -345,16 +372,18 @@
     "timeWeek": 1047,
     "timeMonth": 1048,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 1
+    }
   },
   {
     "name": "picto.ivdnt.org",
     "url": "https://picto.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/picto.ivdnt.org",
     "slug": "picto-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -363,7 +392,9 @@
     "timeWeek": 596,
     "timeMonth": 891,
     "timeYear": 891,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "pybossa.taalradar.ivdnt.org",
@@ -388,9 +419,9 @@
     "url": "https://portal.clarin.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/portal.clarin.ivdnt.org",
     "slug": "portal-clarin-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -399,16 +430,18 @@
     "timeWeek": 816,
     "timeMonth": 1166,
     "timeYear": 1166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "taalmaterialen.ivdnt.org",
     "url": "https://taalmaterialen.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/taalmaterialen.ivdnt.org",
     "slug": "taalmaterialen-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -417,7 +450,9 @@
     "timeWeek": 1741,
     "timeMonth": 1844,
     "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "taalradar.ivdnt.org",
@@ -460,9 +495,9 @@
     "url": "https://uitleenwoordenbank.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/uitleenwoordenbank.ivdnt.org",
     "slug": "uitleenwoordenbank-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -471,7 +506,9 @@
     "timeWeek": 539,
     "timeMonth": 1028,
     "timeYear": 1028,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "vertaalwoordenschat.ivdnt.org",
@@ -496,9 +533,9 @@
     "url": "https://woordcombinaties.ivdnt.org",
     "icon": "https://favicons.githubusercontent.com/woordcombinaties.ivdnt.org",
     "slug": "woordcombinaties-ivdnt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -507,6 +544,8 @@
     "timeWeek": 509,
     "timeMonth": 1469,
     "timeYear": 1469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   }
 ]
