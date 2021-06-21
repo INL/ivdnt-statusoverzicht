@@ -1,7 +1,7 @@
 url: https://search.namescape.nl
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2021-06-21T08:53:29.875Z
+status: down
+code: 503
+responseTime: 465
+lastUpdated: 2021-06-21T10:11:08.764Z
 startTime: Mon May 31 2021 11:42:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
