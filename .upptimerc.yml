@@ -39,6 +39,8 @@ sites:
     url: https://ner.namescape.nl/namescape/ui
   - name: namescape visualizer
     url: https://visualizer.namescape.nl
+  - name: openconvert.ivdnt.org
+    url: https://openconvert.ivdnt.org
   - name: opensonar.ivdnt.org
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: picto.ivdnt.org
