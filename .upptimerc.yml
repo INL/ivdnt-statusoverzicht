@@ -63,7 +63,7 @@ sites:
     url: https://woordcombinaties.ivdnt.org
 status-website:
   cname: status.ivdnt.org
-  #baseUrl: /ivdnt-statusoverzicht
+  #baseUrl: /ivdnt-statusoverzicht-
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/int-logo-2regels.png
   name: Status
   introTitle:
