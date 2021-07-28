@@ -59,6 +59,8 @@ sites:
     url: https://uitleenwoordenbank.ivdnt.org
   - name: vertaalwoordenschat.ivdnt.org
     url: https://vertaalwoordenschat.ivdnt.org
+  - name: wegmetdatwoord.ivdnt.org
+    url: https://wegmetdatwoord.ivdnt.org
   - name: woordcombinaties.ivdnt.org
     url: https://woordcombinaties.ivdnt.org
 status-website:
@@ -75,4 +77,4 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: ivdnt.org
       href: https://ivdnt.org
-  footer: (c) ivdnt.org
+  footer: ivdnt.org
