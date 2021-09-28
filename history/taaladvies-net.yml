@@ -1,7 +1,7 @@
 url: https://taaladvies.net
-status: up
-code: 200
-responseTime: 1065
-lastUpdated: 2021-09-27T23:03:56.923Z
+status: down
+code: 503
+responseTime: 2266
+lastUpdated: 2021-09-28T05:34:39.258Z
 startTime: Thu Sep 09 2021 12:04:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
