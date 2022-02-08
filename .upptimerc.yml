@@ -49,6 +49,8 @@ sites:
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: picto.ivdnt.org
     url: https://picto.ivdnt.org
+  - name: pinkhof.ivdnt.org
+    url: https://pinkhof.ivdnt.org
   - name: pybossa.taalradar.ivdnt.org
     url: https://pybossa.taalradar.ivdnt.org
   - name: portal.clarin.ivdnt.org
