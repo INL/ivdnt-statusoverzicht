@@ -17,6 +17,8 @@ sites:
     url: https://corpusjuridischnederlands.ivdnt.org
   - name: corpusmiddelnederlands.ivdnt.org
     url: https://corpusmiddelnederlands.ivdnt.org
+  - name: corpusoudnederlands.ivdnt.org
+    url: https://corpusoudnederlands.ivdnt.org
   - name: diamant.ivdnt.org
     url: https://diamant.ivdnt.org
   - name: dsdd.ivdnt.org
