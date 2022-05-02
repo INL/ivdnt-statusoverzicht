@@ -1,7 +1,7 @@
 url: https://ewnd.ivdnt.org
-status: up
-code: 200
-responseTime: 437
-lastUpdated: 2022-05-01T23:03:55.664Z
+status: down
+code: 503
+responseTime: 3570
+lastUpdated: 2022-05-02T14:25:43.740Z
 startTime: Fri May 28 2021 10:46:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
