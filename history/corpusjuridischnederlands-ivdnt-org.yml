@@ -1,7 +1,7 @@
 url: https://corpusjuridischnederlands.ivdnt.org
-status: up
-code: 200
-responseTime: 1445
-lastUpdated: 2022-05-11T23:04:00.220Z
+status: down
+code: 503
+responseTime: 552
+lastUpdated: 2022-05-12T11:54:23.479Z
 startTime: Wed Sep 29 2021 13:13:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
