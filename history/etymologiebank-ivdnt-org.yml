@@ -1,7 +1,7 @@
 url: https://etymologiebank.ivdnt.org
-status: up
-code: 200
-responseTime: 1234
-lastUpdated: 2022-12-01T23:04:06.695Z
+status: down
+code: 500
+responseTime: 1107
+lastUpdated: 2022-12-02T13:01:16.256Z
 startTime: Fri May 28 2021 10:46:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
