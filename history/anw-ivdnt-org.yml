@@ -1,7 +1,7 @@
 url: https://anw.ivdnt.org
-status: up
-code: 200
-responseTime: 1331
-lastUpdated: 2022-12-08T23:03:52.552Z
+status: down
+code: 503
+responseTime: 847
+lastUpdated: 2022-12-09T06:36:35.320Z
 startTime: Fri May 28 2021 10:17:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
