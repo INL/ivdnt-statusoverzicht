@@ -1,7 +1,7 @@
 url: https://gtb.ivdnt.org
-status: up
-code: 200
-responseTime: 1260
-lastUpdated: 2022-12-24T23:04:08.706Z
+status: down
+code: 503
+responseTime: 17353
+lastUpdated: 2022-12-25T05:01:47.691Z
 startTime: Fri May 28 2021 10:17:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
