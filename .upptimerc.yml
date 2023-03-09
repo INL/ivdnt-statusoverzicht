@@ -23,6 +23,8 @@ sites:
     url: https://couranten.ivdnt.org
   - name: diamant.ivdnt.org
     url: https://diamant.ivdnt.org
+  - name: domainlossandgain2023
+    url: https://domainlossandgain2023.eu
   - name: dsdd.ivdnt.org
     url: https://dsdd.ivdnt.org/DSDD
   - name: e-ans.ivdnt.org
