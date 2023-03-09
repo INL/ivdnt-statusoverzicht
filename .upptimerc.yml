@@ -55,16 +55,12 @@ sites:
     url: https://picto.ivdnt.org
   - name: pinkhof.ivdnt.org
     url: https://pinkhof.ivdnt.org
-  - name: pybossa.taalradar.ivdnt.org
-    url: https://pybossa.taalradar.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
   - name: taaladvies.net
     url: https://taaladvies.net
   - name: taalmaterialen.ivdnt.org
     url: https://taalmaterialen.ivdnt.org
-  - name: taalradar.ivdnt.org
-    url: https://taalradar.ivdnt.org
   - name: taalportaal.org
     url: https://taalportaal.org
   - name: uitleenwoordenbank.ivdnt.org
