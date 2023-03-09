@@ -45,6 +45,8 @@ sites:
     url: https://ner.namescape.nl/namescape/ui
   - name: namescape visualizer
     url: https://visualizer.namescape.nl
+  - name: nederlandsedialecten.org
+    url: https://nederlandsedialecten.org
   - name: neologismen.ivdnt.org
     url: https://neologismen.ivdnt.org
   - name: openconvert.ivdnt.org
