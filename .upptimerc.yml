@@ -51,8 +51,6 @@ sites:
     url: https://nederlandsedialecten.org
   - name: neologismen.ivdnt.org
     url: https://neologismen.ivdnt.org
-  - name: openconvert.ivdnt.org
-    url: https://openconvert.ivdnt.org
   - name: opensonar.ivdnt.org
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: picto.ivdnt.org
