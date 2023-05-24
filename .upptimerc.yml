@@ -77,7 +77,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/int-logo-2regels.png
   name: Status
   introTitle:
-  introMessage:
+  introMessage: Live status overview of our websites and applications.
   navbar:
     - title: live status
       href: /
