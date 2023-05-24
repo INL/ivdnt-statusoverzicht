@@ -1,7 +1,7 @@
 url: https://neologismen.ivdnt.org
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2023-05-23T23:04:26.020Z
+status: down
+code: 503
+responseTime: 665
+lastUpdated: 2023-05-24T04:28:20.972Z
 startTime: Mon Nov 01 2021 11:09:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
