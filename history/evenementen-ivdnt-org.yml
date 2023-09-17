@@ -1,7 +1,7 @@
 url: https://evenementen.ivdnt.org
-status: up
-code: 200
-responseTime: 4142
-lastUpdated: 2023-09-16T23:03:44.801Z
+status: down
+code: 500
+responseTime: 7892
+lastUpdated: 2023-09-17T20:01:25.449Z
 startTime: 2021-05-28T10:46:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
