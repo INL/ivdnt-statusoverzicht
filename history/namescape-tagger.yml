@@ -1,7 +1,7 @@
 url: https://ner.namescape.nl/namescape/ui
-status: up
-code: 200
-responseTime: 468
-lastUpdated: 2023-09-21T11:07:31.286Z
+status: down
+code: 503
+responseTime: 3101
+lastUpdated: 2023-09-21T11:35:05.537Z
 startTime: 2021-05-31T11:42:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
