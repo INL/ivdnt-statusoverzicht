@@ -1,7 +1,7 @@
 url: https://visualizer.namescape.nl
-status: up
-code: 200
-responseTime: 888
-lastUpdated: 2023-09-20T23:04:03.040Z
+status: down
+code: 503
+responseTime: 2939
+lastUpdated: 2023-09-21T11:35:17.824Z
 startTime: 2021-05-31T09:11:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
