@@ -39,12 +39,6 @@ sites:
     url: https://gtb.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
-  - name: namescape.nl website
-    url: https://blog.namescape.nl
-  - name: namescape search
-    url: https://search.namescape.nl
-  - name: namescape tagger
-    url: https://ner.namescape.nl/namescape/ui
   - name: namescape visualizer
     url: https://visualizer.namescape.nl
   - name: nederlandsedialecten.org
