@@ -11,6 +11,8 @@ sites:
     url: https://brievenalsbuit2.ivdnt.org
   - name: chn.ivdnt.org
     url: https://chn.ivdnt.org
+  - name: ciplnet.com
+    url: https://ciplnet.com
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
   - name: corpusjuridischnederlands.ivdnt.org
@@ -21,6 +23,8 @@ sites:
     url: https://corpusoudnederlands.ivdnt.org
   - name: couranten.ivdnt.org
     url: https://couranten.ivdnt.org
+  - name: dagenta.ivdnt.org
+    url: https://dagenta.ivdnt.org
   - name: diamant.ivdnt.org
     url: https://diamant.ivdnt.org
   - name: domainlossandgain2023
@@ -61,6 +65,8 @@ sites:
     url: https://taalmaterialen.ivdnt.org
   - name: taalportaal.org
     url: https://taalportaal.org
+  - name: transcriptor.nl
+    url: https://transcriptor.nl
   - name: uitleenwoordenbank.ivdnt.org
     url: https://uitleenwoordenbank.ivdnt.org
   - name: vertaalwoordenschat.ivdnt.org
