@@ -37,6 +37,8 @@ sites:
     url: https://ewnd.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
+  - name: jwsii.ivdnt.org
+    url: https://jwsii.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
   - name: neerlandistiek.nl
