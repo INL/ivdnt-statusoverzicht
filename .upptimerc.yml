@@ -39,6 +39,8 @@ sites:
     url: https://gtb.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
+  - name: neerlandistiek.nl
+    url: https://neerlandistiek.nl
   - name: nederlandsedialecten.org
     url: https://nederlandsedialecten.org
   - name: neologismen.ivdnt.org
