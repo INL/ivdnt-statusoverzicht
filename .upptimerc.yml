@@ -61,6 +61,8 @@ sites:
     url: https://pinkhof.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
+  - name: sofeer.ivdnt.org
+    url: https://sofeer.ivdnt.org
   - name: taaladvies.net
     url: https://taaladvies.net
   - name: taalmaterialen.ivdnt.org
