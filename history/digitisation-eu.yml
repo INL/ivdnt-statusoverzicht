@@ -1,7 +1,7 @@
 url: https://digitisation.eu
-status: up
-code: 200
-responseTime: 872
-lastUpdated: 2023-10-13T13:22:58.341Z
+status: down
+code: 502
+responseTime: 3025
+lastUpdated: 2023-10-13T18:13:23.067Z
 startTime: 2023-10-12T15:39:51.662Z
 generator: Upptime <https://github.com/upptime/upptime>
