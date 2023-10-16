@@ -55,6 +55,8 @@ sites:
     url: https://neologismen.ivdnt.org
   - name: opensonar.ivdnt.org
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
+  - name: overtaal.be
+    url: https://overtaal.be
   - name: picto.ivdnt.org
     url: https://picto.ivdnt.org
   - name: pinkhof.ivdnt.org
