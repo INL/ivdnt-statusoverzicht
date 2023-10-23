@@ -1,7 +1,7 @@
 url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
-status: up
-code: 200
-responseTime: 908
-lastUpdated: 2023-10-22T23:03:58.868Z
+status: down
+code: 500
+responseTime: 6355
+lastUpdated: 2023-10-23T13:06:50.007Z
 startTime: 2021-05-28T11:01:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
