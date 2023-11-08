@@ -867,19 +867,19 @@
     "url": "https://overtaal.be",
     "icon": "https://icons.duckduckgo.com/ip3/overtaal.be.ico",
     "slug": "overtaal-be",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1961,
-    "timeDay": 2416,
-    "timeWeek": 2141,
-    "timeMonth": 1961,
-    "timeYear": 1961,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2018,
+    "timeDay": 2929,
+    "timeWeek": 2304,
+    "timeMonth": 2018,
+    "timeYear": 2018,
     "dailyMinutesDown": {
-      "2023-11-08": 1
+      "2023-11-08": 4
     }
   },
   {
