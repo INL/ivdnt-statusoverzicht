@@ -39,6 +39,8 @@ sites:
     url: https://etymologiebank.ivdnt.org
   - name: ewnd.ivdnt.org
     url: https://ewnd.ivdnt.org
+  - name: gekaaptebrieven.ivdnt.org
+    url: https://gekaaptebrieven.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
   - name: jwsii.ivdnt.org
