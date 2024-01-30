@@ -79,6 +79,8 @@ sites:
     url: https://vertaalwoordenschat.ivdnt.org
   - name: woordcombinaties.ivdnt.org
     url: https://woordcombinaties.ivdnt.org
+  - name: woordenlijst.org
+    url: https://woordenlijst.org    
 status-website:
   cname: status.ivdnt.org
   #baseUrl: /ivdnt-statusoverzicht-
