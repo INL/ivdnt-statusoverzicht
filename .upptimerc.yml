@@ -71,8 +71,6 @@ sites:
     url: https://taaladvies.net
   - name: taalmaterialen.ivdnt.org
     url: https://taalmaterialen.ivdnt.org
-  - name: taalportaal.org
-    url: https://taalportaal.org
   - name: transcriptor.nl
     url: https://transcriptor.nl
   - name: uitleenwoordenbank.ivdnt.org
@@ -97,4 +95,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: ivdnt.org
       href: https://ivdnt.org
-  footer: ivdnt.org
+i18n:
+  footer: ivdnt.org - opensource project by [Upptime](https://upptime.js.org)
