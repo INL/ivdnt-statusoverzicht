@@ -86,7 +86,7 @@ sites:
 status-website:
   cname: status.ivdnt.org
   #baseUrl: /ivdnt-statusoverzicht-
-  logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/int-logo-2regels.png
+  logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/ivdNt-logo-w-2regels-cmyk.png
   name: Status
   introTitle:
   introMessage: Live status overview of our websites and applications.
