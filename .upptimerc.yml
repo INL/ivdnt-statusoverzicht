@@ -33,8 +33,6 @@ sites:
     url: https://dsdd.ivdnt.org/DSDD
   - name: e-ans.ivdnt.org
     url: https://e-ans.ivdnt.org
-  - name: evenementen.ivdnt.org
-    url: https://evenementen.ivdnt.org
   - name: etymologiebank.ivdnt.org
     url: https://etymologiebank.ivdnt.org
   - name: ewnd.ivdnt.org
