@@ -538,11 +538,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gekaaptebrieven.ivdnt.org.ico",
     "slug": "gekaaptebrieven-ivdnt-org",
     "status": "up",
-    "uptime": "93.26%",
+    "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "93.26%",
+    "uptimeYear": "93.27%",
     "time": 1424,
     "timeDay": 1850,
     "timeWeek": 2513,
@@ -747,10 +747,10 @@
     "url": "https://neerlandistiek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/neerlandistiek.nl.ico",
     "slug": "neerlandistiek-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
@@ -758,7 +758,9 @@
     "timeWeek": 1105,
     "timeMonth": 1037,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 1
+    }
   },
   {
     "name": "nederlandsedialecten.org",
