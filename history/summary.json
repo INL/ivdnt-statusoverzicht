@@ -1332,19 +1332,19 @@
     "url": "https://woordenlijst.org",
     "icon": "https://icons.duckduckgo.com/ip3/woordenlijst.org.ico",
     "slug": "woordenlijst-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 796,
-    "timeWeek": 852,
-    "timeMonth": 833,
-    "timeYear": 875,
+    "time": 876,
+    "timeDay": 973,
+    "timeWeek": 889,
+    "timeMonth": 842,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2024-11-08": 2
+      "2024-11-08": 6
     }
   }
 ]
