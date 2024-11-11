@@ -41,12 +41,16 @@ sites:
     url: https://fineco.ivdnt.org
   - name: gekaaptebrieven.ivdnt.org
     url: https://gekaaptebrieven.ivdnt.org
+  - name: glad.ivdnt.org
+    url: https://glad.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
   - name: jwsii.ivdnt.org
     url: https://jwsii.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
+  - name: limburgsluisteren.ivdnt.org
+    url: https://limburgsluisteren.ivdnt.org
   - name: mateo.ivdnt.org
     url: https://mateo.ivdnt.org
   - name: neerlandistiek.nl
@@ -59,12 +63,18 @@ sites:
     url: https://portal.clarin.inl.nl/opensonar_frontend/opensonar
   - name: overtaal.be
     url: https://overtaal.be
+  - name: pallas.ivdnt.org
+    url: https://pallas.ivdnt.org
   - name: picto.ivdnt.org
     url: https://picto.ivdnt.org
   - name: pinkhof.ivdnt.org
     url: https://pinkhof.ivdnt.org
   - name: portal.clarin.ivdnt.org
     url: https://portal.clarin.ivdnt.org
+  - name: schatkamer.ivdnt.org
+    url: https://schatkamer.ivdnt.org
+  - name: scheikunde.ivdnt.org
+    url: https://scheikunde.ivdnt.org
   - name: sofeer.ivdnt.org
     url: https://sofeer.ivdnt.org
   - name: taaladvies.net
