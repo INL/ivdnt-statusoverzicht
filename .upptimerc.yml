@@ -45,6 +45,8 @@ sites:
     url: https://glad.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
+  - name: jiddischwoordenboek.nl
+    url: https://jiddischwoordenboek.nl
   - name: jwsii.ivdnt.org
     url: https://jwsii.ivdnt.org
   - name: lexiconfrisicum.ivdnt.org
