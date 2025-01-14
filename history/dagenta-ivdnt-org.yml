@@ -1,7 +1,7 @@
 url: https://dagenta.ivdnt.org
-status: up
-code: 200
-responseTime: 2229
-lastUpdated: 2025-01-13T23:03:54.717Z
+status: down
+code: 502
+responseTime: 796
+lastUpdated: 2025-01-14T05:24:24.775Z
 startTime: 2023-10-09T09:33:03.847Z
 generator: Upptime <https://github.com/upptime/upptime>
