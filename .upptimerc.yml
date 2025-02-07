@@ -93,9 +93,10 @@ sites:
     url: https://woordcombinaties.ivdnt.org
   - name: woordenlijst.org
     url: https://woordenlijst.org    
+  - name: woordpeiler.ivdnt.org
+    url: https://woordpeiler.ivdnt.org
 status-website:
   cname: status.ivdnt.org
-  #baseUrl: /ivdnt-statusoverzicht-
   logoUrl: https://raw.githubusercontent.com/INL/ivdnt-statusoverzicht/master/assets/ivdNt-logo-w-2regels-cmyk.png
   name: Status
   introTitle:
