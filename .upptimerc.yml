@@ -13,12 +13,16 @@ sites:
     url: https://chn.ivdnt.org
   - name: ciplnet.com
     url: https://ciplnet.com
+  - name: clarin-be.ivdnt.org
+    url: https://clarin-be.ivdnt.org
   - name: corpusgysseling.ivdnt.org
     url: https://corpusgysseling.ivdnt.org
   - name: corpusjuridischnederlands.ivdnt.org
     url: https://corpusjuridischnederlands.ivdnt.org
   - name: corpusmiddelnederlands.ivdnt.org
     url: https://corpusmiddelnederlands.ivdnt.org
+  - name: corpusoudfries.ivdnt.org
+    url: https://corpusoudfries.ivdnt.org
   - name: corpusoudnederlands.ivdnt.org
     url: https://corpusoudnederlands.ivdnt.org
   - name: couranten.ivdnt.org
@@ -43,12 +47,18 @@ sites:
     url: https://gekaaptebrieven.ivdnt.org
   - name: glad.ivdnt.org
     url: https://glad.ivdnt.org
+  - name: gretel4.ivdnt.org
+    url: https://gretel4.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
   - name: jiddischwoordenboek.nl
     url: https://jiddischwoordenboek.nl
   - name: jwsii.ivdnt.org
     url: https://jwsii.ivdnt.org
+  - name: kdutch.ivdnt.org
+    url: https://kdutch.ivdnt.org
+  - name: kennisbank-begrijpelijketaal.nl
+    url: https://kennisbank-begrijpelijketaal.nl
   - name: lexiconfrisicum.ivdnt.org
     url: https://lexiconfrisicum.ivdnt.org
   - name: limburgsluisteren.ivdnt.org
