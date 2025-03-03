@@ -358,10 +358,10 @@
     "url": "https://dative.ca",
     "icon": "https://icons.duckduckgo.com/ip3/dative.ca.ico",
     "slug": "dative-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
@@ -369,7 +369,9 @@
     "timeWeek": 385,
     "timeMonth": 389,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 2
+    }
   },
   {
     "name": "dagenta.ivdnt.org",
@@ -1057,7 +1059,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.clarin.ivdnt.org.ico",
     "slug": "portal-clarin-ivdnt-org",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
