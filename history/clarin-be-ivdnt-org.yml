@@ -1,7 +1,7 @@
 url: https://clarin-be.ivdnt.org
-status: down
-code: 502
-responseTime: 943
-lastUpdated: 2025-03-09T05:24:14.943Z
+status: up
+code: 200
+responseTime: 1839
+lastUpdated: 2025-03-09T05:30:26.567Z
 startTime: 2025-02-07T10:58:34.859Z
 generator: Upptime <https://github.com/upptime/upptime>
