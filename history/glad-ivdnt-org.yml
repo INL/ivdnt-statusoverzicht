@@ -1,7 +1,7 @@
 url: https://glad.ivdnt.org
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2025-03-11T23:04:25.052Z
+status: down
+code: 503
+responseTime: 554
+lastUpdated: 2025-03-12T05:26:39.836Z
 startTime: 2024-11-11T11:12:41.353Z
 generator: Upptime <https://github.com/upptime/upptime>
