@@ -1,7 +1,7 @@
 url: https://transcriptor.nl
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2025-03-17T23:05:19.860Z
+status: down
+code: 502
+responseTime: 19314
+lastUpdated: 2025-03-18T11:16:22.131Z
 startTime: 2023-10-09T09:33:41.980Z
 generator: Upptime <https://github.com/upptime/upptime>
