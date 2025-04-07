@@ -51,6 +51,8 @@ sites:
     url: https://gretel4.ivdnt.org
   - name: gtb.ivdnt.org
     url: https://gtb.ivdnt.org
+  - name: hcd.ivdnt.org
+    url: https://hcd.ivdnt.org
   - name: jiddischwoordenboek.nl
     url: https://jiddischwoordenboek.nl
   - name: jwsii.ivdnt.org
